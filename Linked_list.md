@@ -310,7 +310,7 @@ int main()
 	display();
 
 
-// viii) insertion at any position --->
+// viii) Deletion  at any position --->
 	any_del();
 	display();
     return 0;  
@@ -401,7 +401,8 @@ int main()
 
      
       
-    //Displays the nodes present in the list  
+    //Displays the nodes present in the list
+
     display();  
 	reverse(head);
 	display();   
@@ -780,7 +781,7 @@ int main()
    display();
 
 
-// viii) insertion at any position --->
+// viii) Deletion  at any position --->
    del_at_pos();
    display();
    return 0;  
@@ -1159,7 +1160,7 @@ int main()
     display();
 
 
-// viii) insertion at any position --->
+// viii) Deletion at any position --->
     delete_anypos();
     display();
     return 0;  
